@@ -3,7 +3,9 @@ def new_hash
 end
 
 def my_hash
-  favorite_things => {:color "Green"}
+  favorite_things => {:color "Green"
+    
+  }
 end
 
 def pioneer
