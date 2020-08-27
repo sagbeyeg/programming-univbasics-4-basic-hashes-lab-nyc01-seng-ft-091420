@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:color "Green"}
+  { "Green"}
 end
 
 def pioneer
